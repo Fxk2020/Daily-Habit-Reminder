@@ -1,0 +1,5 @@
+{
+  "name": "Daily Habit Reminder",
+  "description": "A daily task and habit reminder app with statistics and notifications.",
+  "requestFramePermissions": ["notifications"]
+}
